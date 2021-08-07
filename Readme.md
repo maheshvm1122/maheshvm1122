@@ -12,7 +12,7 @@
 - 🎂  **Quote:- If you want to become handsome then Give your hand to someone.**
 - 📒 **Learning && Living**
  
- ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Frontend+Web+Developer;I'm+a+BackEnd%2F+DEVELOPER;I'm+a+Mentor;I'm+a+FULLSTACK+DEVELOPER)
+ ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Frontend+Developer;I'm+a+BackEnd%2F+DEVELOPER;I'm+a+Mentor;I'm+a+FULLSTACK+DEVELOPER)
 ### Wanna Connect with me(feel free to do it):
 <p align="center">
  <a href="https://www.instagram.com/maheshvm_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
